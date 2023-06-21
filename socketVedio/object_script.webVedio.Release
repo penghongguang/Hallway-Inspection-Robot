@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/mapImage.o
+release/socket.o
+release/videoSocket.o
+release/qrc_sources.o
+release/moc_mainwindow.o
+release/moc_mapImage.o
+release/moc_socket.o
+release/moc_videoSocket.o
